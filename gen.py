@@ -1,3 +1,5 @@
+# darklegal 9.12.23 
+
 try:
   from colorama import Fore, init, Style
   from random import randint, choices
